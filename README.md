@@ -1,4 +1,4 @@
-# AlphaCommerceHubOpencart2.3
+# SecurePay OpenCart 2.3
 
 ## How to install
 
